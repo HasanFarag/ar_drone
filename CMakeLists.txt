@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.10)
-project(ar_drone)
+project(sjtu_drone)
 SET(CMAKE_CXX_FLAGS -std=c++11)
 
 ## Find catkin macros and libraries

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>sjtu_drone</name>
+  <name>ar_drone</name>
   <version>0.0.0</version>
   <description>The sjtu_drone package</description>
  
